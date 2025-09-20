@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharacterPanelRefined")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute(" ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.8.4.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.8.4.1+7d69affe383a02db37c8bff4ab1887ab1593ce2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.8.4.1+6c3b7261aee9ef8d48582cf0b8e2ef1262668b08")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharacterPanelRefined")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharacterPanelRefined")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.8.4.1")]

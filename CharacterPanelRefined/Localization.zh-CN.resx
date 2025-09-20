@@ -38,13 +38,13 @@
         <value>直击率</value>
     </data>
     <data name="Panel_FireIII_GCD" xml:space="preserve">
-        <value>火炎III咏唱</value>
+        <value>爆炎咏唱</value>
     </data>
     <data name="Panel_RubyRite_GCD" xml:space="preserve">
-        <value>红宝石仪式复唱</value>
+        <value>红宝石之仪复唱</value>
     </data>
     <data name="Panel_BlizzardInCyan_GCD" xml:space="preserve">
-        <value>冰结·青复唱</value>
+        <value>冰结之蓝青复唱</value>
     </data>
     <data name="Panel_GCD" xml:space="preserve">
         <value>复唱</value>
@@ -200,7 +200,7 @@
         <value>制作力</value>
     </data>
     <data name="Panel_GP" xml:space="preserve">
-        <value>获得力</value>
+        <value>采集力</value>
     </data>
     <data name="Config_Show_stats_without_consumables" xml:space="preserve">
         <value>显示不含消耗品的能工巧匠/大地使者属性</value>
