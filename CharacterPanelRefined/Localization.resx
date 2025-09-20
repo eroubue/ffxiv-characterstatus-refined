@@ -176,7 +176,7 @@ Any item with an ilvl higher than the limit will lose all its melds and its stat
     </data>
     <data name="Config_Window_Use_Game_Language_Tooltip" xml:space="preserve">
         <value>Use the internal game language for this plugin if available.
- Currently Available: English, German, French</value>
+ Currently Available: English, German, French, Simplified Chinese</value>
     </data>
     <data name="Config_Show_average_damage" xml:space="preserve">
         <value>Show average damage</value>
